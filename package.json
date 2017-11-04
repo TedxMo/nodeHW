@@ -1,0 +1,24 @@
+{
+  "name": "node-1",
+  "version": "1.0.0",
+  "description": "initial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TedxMo/nodeHW.git"
+  },
+  "author": "Ted",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TedxMo/nodeHW/issues"
+  },
+  "homepage": "https://github.com/TedxMo/nodeHW#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  }
+}
